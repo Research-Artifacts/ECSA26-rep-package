@@ -1,0 +1,18 @@
+{
+  "input_json": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/results/json/arch_doc_scan_raw.json",
+  "repositories_in_input": 89,
+  "candidate_rows": 32669,
+  "max_files_per_repo": 8,
+  "categories": [
+    "arch_overview",
+    "context",
+    "views",
+    "adrs",
+    "deployment",
+    "interface",
+    "evaluation",
+    "quality",
+    "stakeholders"
+  ],
+  "note": "Heuristic scores are intended only for review prioritization and must not be used as final evidence."
+}

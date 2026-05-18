@@ -1,0 +1,401 @@
+row_index,R1_labels,R1__Compatibility,R1__Flexibility,R1__Functional Suitability,R1__Interaction Capability,R1__Maintainability,R1__Performance Efficiency,R1__Reliability,R1__Safety,R1__Security,R2_labels,R2__Compatibility,R2__Flexibility,R2__Functional Suitability,R2__Interaction Capability,R2__Maintainability,R2__Performance Efficiency,R2__Reliability,R2__Safety,R2__Security,R3_labels,R3__Compatibility,R3__Flexibility,R3__Functional Suitability,R3__Interaction Capability,R3__Maintainability,R3__Performance Efficiency,R3__Reliability,R3__Safety,R3__Security
+0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+1,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+2,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+3,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+4,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+5,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+6,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+7,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+8,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+9,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+10,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+11,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+12,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+13,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+14,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+15,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+16,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+17,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+18,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+19,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+20,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+21,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+22,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+23,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+24,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+25,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+26,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+27,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+28,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+29,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+30,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+31,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+32,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+33,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+34,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+35,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+36,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+37,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+38,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+39,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+40,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+41,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+42,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+43,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+44,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+45,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility; Flexibility,1,1,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+46,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility; Maintainability,1,0,0,0,1,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+47,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility; Functional Suitability,1,0,1,0,0,0,0,0,0,Compatibility; Functional Suitability,1,0,1,0,0,0,0,0,0
+48,Compatibility,1,0,0,0,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+49,Compatibility; Flexibility; Maintainability,1,1,0,0,1,0,0,0,0,Compatibility; Flexibility; Maintainability,1,1,0,0,1,0,0,0,0,Compatibility; Flexibility; Maintainability,1,1,0,0,1,0,0,0,0
+50,Compatibility; Flexibility; Maintainability,1,1,0,0,1,0,0,0,0,Compatibility; Maintainability,1,0,0,0,1,0,0,0,0,Compatibility; Functional Suitability,1,0,1,0,0,0,0,0,0
+51,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+52,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+53,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+54,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+55,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+56,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+57,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+58,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+59,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+60,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+61,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+62,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+63,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+64,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+65,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+66,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+67,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+68,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+69,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+70,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+71,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+72,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+73,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+74,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+75,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+76,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+77,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+78,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+79,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+80,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+81,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+82,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+83,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+84,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+85,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+86,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility; Functional Suitability,0,1,1,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+87,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility; Interaction Capability,0,1,0,1,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+88,Flexibility,0,1,0,0,0,0,0,0,0,Reliability,0,0,0,0,0,0,1,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+89,Flexibility,0,1,0,0,0,0,0,0,0,Compatibility; Flexibility,1,1,0,0,0,0,0,0,0,Compatibility; Flexibility,1,1,0,0,0,0,0,0,0
+90,Flexibility,0,1,0,0,0,0,0,0,0,Compatibility; Flexibility,1,1,0,0,0,0,0,0,0,Compatibility; Flexibility,1,1,0,0,0,0,0,0,0
+91,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility; Interaction Capability,0,1,0,1,0,0,0,0,0,Flexibility; Maintainability,0,1,0,0,1,0,0,0,0
+92,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility; Performance Efficiency,0,1,0,0,0,1,0,0,0,Flexibility; Performance Efficiency,0,1,0,0,0,1,0,0,0
+93,Flexibility,0,1,0,0,0,0,0,0,0,Maintainability; Reliability,0,0,0,0,1,0,1,0,0,Maintainability; Reliability,0,0,0,0,1,0,1,0,0
+94,Compatibility; Flexibility,1,1,0,0,0,0,0,0,0,Compatibility; Flexibility; Interaction Capability,1,1,0,1,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+95,Flexibility; Interaction Capability,0,1,0,1,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+96,Flexibility; Maintainability,0,1,0,0,1,0,0,0,0,Flexibility; Maintainability,0,1,0,0,1,0,0,0,0,Flexibility; Maintainability,0,1,0,0,1,0,0,0,0
+97,Flexibility; Maintainability,0,1,0,0,1,0,0,0,0,Flexibility; Maintainability,0,1,0,0,1,0,0,0,0,Flexibility; Maintainability,0,1,0,0,1,0,0,0,0
+98,Flexibility; Reliability,0,1,0,0,0,0,1,0,0,Flexibility; Functional Suitability,0,1,1,0,0,0,0,0,0,Flexibility; Maintainability; Reliability,0,1,0,0,1,0,1,0,0
+99,Flexibility; Security,0,1,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+100,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability; Maintainability,0,0,1,0,1,0,0,0,0,Compatibility; Functional Suitability,1,0,1,0,0,0,0,0,0
+101,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability; Reliability,0,0,1,0,0,0,1,0,0,Compatibility; Functional Suitability,1,0,1,0,0,0,0,0,0
+102,Functional Suitability,0,0,1,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+103,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0
+104,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0
+105,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0
+106,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0
+107,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0
+108,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0
+109,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0
+110,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0
+111,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0
+112,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0
+113,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0
+114,Functional Suitability; Interaction Capability,0,0,1,1,0,0,0,0,0,Functional Suitability; Interaction Capability,0,0,1,1,0,0,0,0,0,Functional Suitability; Interaction Capability,0,0,1,1,0,0,0,0,0
+115,Compatibility; Functional Suitability; Interaction Capability,1,0,1,1,0,0,0,0,0,Compatibility; Functional Suitability; Interaction Capability,1,0,1,1,0,0,0,0,0,Compatibility; Functional Suitability; Interaction Capability,1,0,1,1,0,0,0,0,0
+116,Functional Suitability; Maintainability,0,0,1,0,1,0,0,0,0,Functional Suitability; Maintainability,0,0,1,0,1,0,0,0,0,Functional Suitability; Maintainability,0,0,1,0,1,0,0,0,0
+117,Functional Suitability; Performance Efficiency,0,0,1,0,0,1,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0
+118,Functional Suitability; Performance Efficiency; Reliability,0,0,1,0,0,1,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+119,Interaction Capability,0,0,0,1,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+120,Interaction Capability,0,0,0,1,0,0,0,0,0,Flexibility; Interaction Capability,0,1,0,1,0,0,0,0,0,Flexibility; Maintainability,0,1,0,0,1,0,0,0,0
+121,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+122,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+123,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+124,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+125,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+126,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+127,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+128,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+129,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+130,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+131,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+132,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+133,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+134,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+135,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+136,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+137,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+138,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+139,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+140,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+141,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+142,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+143,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+144,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+145,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+146,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+147,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+148,Interaction Capability,0,0,0,1,0,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+149,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability; Maintainability,0,0,0,1,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+150,Flexibility; Interaction Capability,0,1,0,1,0,0,0,0,0,Flexibility; Interaction Capability,0,1,0,1,0,0,0,0,0,Flexibility; Interaction Capability,0,1,0,1,0,0,0,0,0
+151,Maintainability,0,0,0,0,1,0,0,0,0,Compatibility; Maintainability,1,0,0,0,1,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+152,Maintainability,0,0,0,0,1,0,0,0,0,Compatibility; Maintainability,1,0,0,0,1,0,0,0,0,Compatibility; Flexibility,1,1,0,0,0,0,0,0,0
+153,Maintainability,0,0,0,0,1,0,0,0,0,Flexibility; Maintainability,0,1,0,0,1,0,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+154,Maintainability,0,0,0,0,1,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+155,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+156,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+157,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+158,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+159,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+160,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+161,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+162,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+163,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+164,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+165,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+166,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+167,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+168,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+169,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+170,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+171,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+172,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+173,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+174,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+175,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+176,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+177,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+178,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+179,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+180,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+181,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+182,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+183,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+184,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+185,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+186,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+187,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+188,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+189,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+190,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+191,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+192,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+193,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+194,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+195,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+196,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+197,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+198,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+199,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+200,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+201,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+202,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+203,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+204,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+205,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+206,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+207,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+208,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+209,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+210,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+211,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+212,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+213,Maintainability,0,0,0,0,1,0,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+214,Maintainability,0,0,0,0,1,0,0,0,0,Interaction Capability; Maintainability,0,0,0,1,1,0,0,0,0,Maintainability; Reliability,0,0,0,0,1,0,1,0,0
+215,Maintainability,0,0,0,0,1,0,0,0,0,Compatibility; Maintainability,1,0,0,0,1,0,0,0,0,Compatibility; Maintainability,1,0,0,0,1,0,0,0,0
+216,Maintainability,0,0,0,0,1,0,0,0,0,Interaction Capability; Maintainability,0,0,0,1,1,0,0,0,0,Compatibility; Maintainability,1,0,0,0,1,0,0,0,0
+217,Maintainability,0,0,0,0,1,0,0,0,0,Interaction Capability; Maintainability,0,0,0,1,1,0,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+218,Flexibility; Maintainability,0,1,0,0,1,0,0,0,0,Compatibility; Maintainability,1,0,0,0,1,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+219,Performance Efficiency,0,0,0,0,0,1,0,0,0,Interaction Capability; Performance Efficiency,0,0,0,1,0,1,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+220,Performance Efficiency,0,0,0,0,0,1,0,0,0,Compatibility; Flexibility; Performance Efficiency,1,1,0,0,0,1,0,0,0,Compatibility; Flexibility,1,1,0,0,0,0,0,0,0
+221,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+222,Performance Efficiency,0,0,0,0,0,1,0,0,0,Functional Suitability; Performance Efficiency,0,0,1,0,0,1,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0
+223,Performance Efficiency,0,0,0,0,0,1,0,0,0,Maintainability,0,0,0,0,1,0,0,0,0,Maintainability; Performance Efficiency,0,0,0,0,1,1,0,0,0
+224,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+225,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+226,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+227,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+228,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+229,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+230,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+231,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+232,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+233,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+234,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+235,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+236,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+237,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+238,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+239,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+240,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+241,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+242,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+243,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+244,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+245,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+246,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+247,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+248,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+249,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+250,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+251,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+252,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+253,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+254,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+255,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+256,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+257,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+258,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+259,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+260,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+261,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+262,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+263,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+264,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+265,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+266,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+267,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+268,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+269,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+270,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+271,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+272,Performance Efficiency,0,0,0,0,0,1,0,0,0,Compatibility; Performance Efficiency,1,0,0,0,0,1,0,0,0,Compatibility; Performance Efficiency,1,0,0,0,0,1,0,0,0
+273,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+274,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+275,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+276,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+277,Performance Efficiency,0,0,0,0,0,1,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0,Functional Suitability,0,0,1,0,0,0,0,0,0
+278,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency; Reliability,0,0,0,0,0,1,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+279,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency; Reliability,0,0,0,0,0,1,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+280,Flexibility; Performance Efficiency,0,1,0,0,0,1,0,0,0,Flexibility; Performance Efficiency,0,1,0,0,0,1,0,0,0,Flexibility; Performance Efficiency,0,1,0,0,0,1,0,0,0
+281,Maintainability; Performance Efficiency,0,0,0,0,1,1,0,0,0,Functional Suitability; Interaction Capability,0,0,1,1,0,0,0,0,0,Functional Suitability; Maintainability,0,0,1,0,1,0,0,0,0
+282,Flexibility; Maintainability; Performance Efficiency,0,1,0,0,1,1,0,0,0,Performance Efficiency; Reliability,0,0,0,0,0,1,1,0,0,Maintainability; Reliability,0,0,0,0,1,0,1,0,0
+283,Maintainability; Performance Efficiency; Reliability,0,0,0,0,1,1,1,0,0,Maintainability; Performance Efficiency,0,0,0,0,1,1,0,0,0,Flexibility; Reliability,0,1,0,0,0,0,1,0,0
+284,Performance Efficiency; Reliability,0,0,0,0,0,1,1,0,0,Performance Efficiency; Reliability,0,0,0,0,0,1,1,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+285,Performance Efficiency; Reliability,0,0,0,0,0,1,1,0,0,Flexibility; Reliability,0,1,0,0,0,0,1,0,0,Flexibility; Performance Efficiency; Reliability,0,1,0,0,0,1,1,0,0
+286,Performance Efficiency; Security,0,0,0,0,0,1,0,0,1,Performance Efficiency,0,0,0,0,0,1,0,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0
+287,Reliability,0,0,0,0,0,0,1,0,0,Compatibility; Performance Efficiency; Reliability,1,0,0,0,0,1,1,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+288,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+289,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+290,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+291,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+292,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+293,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+294,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+295,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+296,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+297,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+298,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+299,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+300,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+301,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+302,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+303,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+304,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+305,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+306,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+307,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+308,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+309,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+310,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+311,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+312,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+313,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+314,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+315,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+316,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+317,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+318,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+319,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+320,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+321,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+322,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+323,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+324,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+325,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+326,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+327,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+328,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+329,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+330,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+331,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+332,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+333,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+334,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+335,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+336,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+337,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+338,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+339,Reliability,0,0,0,0,0,0,1,0,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Flexibility,0,1,0,0,0,0,0,0,0
+340,Reliability,0,0,0,0,0,0,1,0,0,Performance Efficiency; Reliability,0,0,0,0,0,1,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+341,Reliability,0,0,0,0,0,0,1,0,0,Functional Suitability; Reliability,0,0,1,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0
+342,Functional Suitability; Reliability,0,0,1,0,0,0,1,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0,Interaction Capability,0,0,0,1,0,0,0,0,0
+343,Interaction Capability; Reliability,0,0,0,1,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0,Maintainability; Performance Efficiency,0,0,0,0,1,1,0,0,0
+344,Performance Efficiency; Reliability,0,0,0,0,0,1,1,0,0,Compatibility; Reliability,1,0,0,0,0,0,1,0,0,Compatibility; Reliability,1,0,0,0,0,0,1,0,0
+345,Safety,0,0,0,0,0,0,0,1,0,Safety,0,0,0,0,0,0,0,1,0,Safety,0,0,0,0,0,0,0,1,0
+346,Safety,0,0,0,0,0,0,0,1,0,Performance Efficiency,0,0,0,0,0,1,0,0,0,Flexibility; Performance Efficiency,0,1,0,0,0,1,0,0,0
+347,Maintainability; Reliability; Safety,0,0,0,0,1,0,1,1,0,Compatibility; Reliability,1,0,0,0,0,0,1,0,0,Compatibility; Reliability,1,0,0,0,0,0,1,0,0
+348,Security,0,0,0,0,0,0,0,0,1,Compatibility,1,0,0,0,0,0,0,0,0,Compatibility,1,0,0,0,0,0,0,0,0
+349,Security,0,0,0,0,0,0,0,0,1,Reliability; Security,0,0,0,0,0,0,1,0,1,Compatibility; Reliability; Security,1,0,0,0,0,0,1,0,1
+350,Security,0,0,0,0,0,0,0,0,1,Reliability; Security,0,0,0,0,0,0,1,0,1,Reliability,0,0,0,0,0,0,1,0,0
+351,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+352,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+353,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+354,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+355,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+356,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+357,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+358,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+359,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+360,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+361,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+362,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+363,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+364,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+365,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+366,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+367,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+368,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+369,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+370,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+371,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+372,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+373,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+374,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+375,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+376,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+377,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+378,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+379,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+380,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+381,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+382,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+383,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+384,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+385,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+386,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+387,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+388,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+389,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+390,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+391,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+392,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+393,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+394,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1,Security,0,0,0,0,0,0,0,0,1
+395,Security,0,0,0,0,0,0,0,0,1,Maintainability; Security,0,0,0,0,1,0,0,0,1,Maintainability; Security,0,0,0,0,1,0,0,0,1
+396,Security,0,0,0,0,0,0,0,0,1,Functional Suitability; Reliability,0,0,1,0,0,0,1,0,0,Security,0,0,0,0,0,0,0,0,1
+397,Maintainability; Security,0,0,0,0,1,0,0,0,1,Reliability; Security,0,0,0,0,0,0,1,0,1,Maintainability; Reliability; Security,0,0,0,0,1,0,1,0,1
+398,Reliability; Security,0,0,0,0,0,0,1,0,1,Reliability; Security,0,0,0,0,0,0,1,0,1,Reliability; Security,0,0,0,0,0,0,1,0,1
+399,Reliability; Security,0,0,0,0,0,0,1,0,1,Reliability,0,0,0,0,0,0,1,0,0,Reliability,0,0,0,0,0,0,1,0,0

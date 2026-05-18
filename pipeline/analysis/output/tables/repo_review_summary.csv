@@ -1,0 +1,91 @@
+repo,categories_detected,files_to_check,high_confidence,medium_confidence,low_or_worse
+AISonobuoy,"arch_overview, views, deployment, interface, evaluation, quality, stakeholders",7,2,0,5
+flogo,"arch_overview, context, views, deployment, interface, evaluation, quality, stakeholders",8,1,2,5
+kantv,"arch_overview, context, views, deployment, interface, evaluation, quality, stakeholders",8,2,1,5
+AI-on-the-edge-device,"arch_overview, deployment, interface, evaluation, quality",5,1,0,4
+DeepStack,"arch_overview, deployment, interface, evaluation, quality",5,1,0,4
+azure-iot-edge-identity-translation-lite,"arch_overview, context, views, deployment, interface, quality, stakeholders",7,2,1,4
+edge-aio-in-a-box,"arch_overview, deployment, interface, evaluation, quality, stakeholders",6,1,1,4
+edgerunner,"arch_overview, deployment, interface, evaluation",4,0,0,4
+emlearn,"arch_overview, views, interface, evaluation, stakeholders",5,0,1,4
+fledge,"arch_overview, context, views, adrs, deployment, interface, evaluation, quality, stakeholders",8,3,1,4
+keylime,"arch_overview, context, views, deployment, interface, evaluation, quality, stakeholders",8,1,3,4
+magistrala,"arch_overview, context, deployment, interface, evaluation, quality, stakeholders",7,2,1,4
+self,"arch_overview, context, deployment, interface, evaluation, quality",6,1,1,4
+shifu,"arch_overview, views, deployment, interface, evaluation, quality, stakeholders",7,2,1,4
+supermq,"arch_overview, context, deployment, interface, evaluation, quality, stakeholders",7,2,1,4
+NanoLLM,"arch_overview, deployment, interface, evaluation",4,0,1,3
+ai8x-training,"arch_overview, context, views, deployment, interface, evaluation",6,1,2,3
+edgehog,"arch_overview, context, views, deployment, interface, evaluation, quality, stakeholders",8,3,2,3
+fabedge,"arch_overview, context, views, deployment, interface, evaluation, quality",7,3,1,3
+hal-9100,"arch_overview, context, deployment, interface, evaluation, quality",6,2,1,3
+iotedge-eflow,"arch_overview, context, views, deployment, interface, quality, stakeholders",7,2,2,3
+iotedge-lorawan-starterkit,"arch_overview, context, views, adrs, deployment, interface, evaluation, quality",8,2,3,3
+jevois,"arch_overview, context, interface, evaluation",4,0,1,3
+luos_engine,"arch_overview, deployment, interface, quality, stakeholders",5,1,1,3
+open-horizon,"arch_overview, views, deployment, interface, evaluation, quality",6,1,2,3
+piccolo,"arch_overview, views, deployment, interface, evaluation, quality, stakeholders",7,2,2,3
+smart-social-distancing,"arch_overview, deployment, interface, evaluation, quality, stakeholders",6,1,2,3
+trusted-connector,"arch_overview, context, deployment, interface, evaluation, quality",6,1,2,3
+viseron,"arch_overview, views, deployment, interface, evaluation, quality",6,2,1,3
+xsai,"arch_overview, deployment, interface",3,0,0,3
+yomo,"arch_overview, views, deployment, interface, evaluation, quality, stakeholders",7,2,2,3
+ztachip,"arch_overview, interface, evaluation, quality",4,1,0,3
+BirdsEye,"arch_overview, views, deployment, interface, evaluation, quality",6,1,3,2
+BitNetMCU,"arch_overview, views, deployment, evaluation",4,2,0,2
+FogBus2,"arch_overview, deployment, evaluation, quality",4,1,1,2
+JAMScript,"arch_overview, deployment, interface, evaluation, quality",5,2,1,2
+MaixPy,"arch_overview, context, views, deployment, interface, evaluation, quality",7,2,3,2
+ModelAssistant,"arch_overview, views, deployment, interface, evaluation, quality",6,1,3,2
+WasmEdge,"arch_overview, views, deployment, interface, evaluation, quality, stakeholders",7,2,3,2
+aXeleRate,"arch_overview, deployment, interface",3,1,0,2
+ai-edge,"arch_overview, context, views, deployment, interface, evaluation, quality",7,2,3,2
+aws-iot-fleetwise-edge,"arch_overview, context, views, deployment, interface, evaluation, quality",7,2,3,2
+baetyl,"arch_overview, views, deployment, interface, evaluation",5,1,2,2
+dem,"arch_overview, views, deployment, interface, evaluation",5,0,3,2
+edge-home-orchestration-go,"arch_overview, context, views, deployment, interface, evaluation, quality",7,4,1,2
+edge-infer,"arch_overview, views, deployment, interface, evaluation",5,1,2,2
+edgehog-device-runtime,"arch_overview, views, deployment, interface, evaluation, quality",6,2,2,2
+edgen,"arch_overview, views, deployment, interface, evaluation, quality",6,2,2,2
+executorch,"arch_overview, context, views, deployment, interface, evaluation, quality, stakeholders",8,2,4,2
+fedn,"arch_overview, context, views, deployment, interface, evaluation, quality, stakeholders",8,2,4,2
+fogflow,"arch_overview, context, views, deployment, interface, evaluation, quality, stakeholders",8,3,3,2
+inngest,"arch_overview, context, deployment, interface, evaluation, quality, stakeholders",7,2,3,2
+loxilb,"arch_overview, deployment, interface, evaluation, quality, stakeholders",6,4,0,2
+mindspore,"arch_overview, context, views, adrs, deployment, interface, evaluation, quality",8,3,3,2
+montithings,"arch_overview, views, deployment, interface, evaluation, quality, stakeholders",7,2,3,2
+openvino_testdrive,"arch_overview, deployment, interface, evaluation, quality",5,2,1,2
+saf,"views, interface, evaluation",3,1,0,2
+salt,"arch_overview, context, views, adrs, deployment, interface, evaluation, quality, stakeholders",8,2,4,2
+simpleiot,"arch_overview, context, views, adrs, deployment, interface, evaluation, quality, stakeholders",8,3,3,2
+sleepkit,"arch_overview, views, deployment, interface, evaluation, quality",6,1,3,2
+thin-edge.io,"arch_overview, context, views, adrs, deployment, interface, evaluation, quality, stakeholders",8,1,5,2
+zilla,"arch_overview, views, deployment, interface, evaluation, quality, stakeholders",7,3,2,2
+AiCSD,"arch_overview, deployment, interface, evaluation, quality, stakeholders",6,1,4,1
+KAN,"arch_overview, context, views, deployment, interface, evaluation, quality, stakeholders",8,4,3,1
+LiteRT,"arch_overview, context, deployment, interface, evaluation, quality, stakeholders",7,3,3,1
+Olares,"arch_overview, context, views, deployment, interface, evaluation, quality, stakeholders",8,3,4,1
+Vitis-AI,"arch_overview, context, views, deployment, interface, evaluation, quality",7,2,4,1
+ai8x-synthesis,"arch_overview, context, views, deployment, evaluation",5,1,3,1
+auritus,"arch_overview, deployment, evaluation, stakeholders",4,1,2,1
+azure-iotedge,"arch_overview, interface, quality",3,2,0,1
+compage,"arch_overview, deployment, interface, quality, stakeholders",5,2,2,1
+ekuiper,"arch_overview, context, views, deployment, interface, evaluation, quality, stakeholders",8,3,4,1
+eve,"arch_overview, context, views, deployment, interface, evaluation, quality, stakeholders",8,3,4,1
+heartkit,"arch_overview, context, views, deployment, interface, evaluation",6,1,4,1
+kura,"arch_overview, deployment, interface, evaluation, quality, stakeholders",6,2,3,1
+microshift,"arch_overview, context, views, deployment, interface, evaluation, quality, stakeholders",8,3,4,1
+model_server,"arch_overview, context, views, deployment, interface, evaluation, quality, stakeholders",8,3,4,1
+nabto-embedded-sdk,"arch_overview, deployment, interface, evaluation, quality",5,1,3,1
+nanomq,"arch_overview, context, views, deployment, interface, evaluation, quality",7,3,3,1
+pipy,"arch_overview, context, views, deployment, interface, evaluation, quality, stakeholders",8,2,5,1
+redpanda-edge-agent,"arch_overview, deployment, interface",3,1,1,1
+rhel-edge-automation-arch,"arch_overview, deployment, interface, quality",4,1,2,1
+tflite_beam,"arch_overview, interface",2,1,0,1
+tokay-lite-sdk,arch_overview,1,0,0,1
+SydneyQt,"arch_overview, interface",2,1,1,0
+edgeai-gst-apps,"deployment, evaluation",2,0,2,0
+evio,,0,0,0,0
+kubeedge,"arch_overview, context, views, deployment, interface, evaluation, quality",7,4,3,0
+microflow-rs,"arch_overview, evaluation",2,1,1,0
+tflite_elixir,arch_overview,1,1,0,0

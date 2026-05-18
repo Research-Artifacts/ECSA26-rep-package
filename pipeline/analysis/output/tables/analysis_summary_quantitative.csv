@@ -1,0 +1,3 @@
+column,multilabel,num_classes,total_assignments,table_csv,chart_png
+sa_doc,False,3,99,../../output/tables/sa_doc_distribution.csv,../../output/charts/sa_doc_distribution.png
+domain,True,21,179,../../output/tables/domain_distribution.csv,../../output/charts/domain_distribution.png

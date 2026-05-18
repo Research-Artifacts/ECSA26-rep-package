@@ -1,0 +1,402 @@
+# Replication Package
+
+Supplementary material and replication package for the study:
+
+## *Open-Source Edge AI Systems in Practice: An Empirical Study of Architectural Characteristics*
+
+**Authors:** 
+
+[Jander Pereira Santos Junior](https://orcid.org/0009-0008-0320-0530)
+
+[Luana Martins](https://orcid.org/0000-0001-6340-7615)
+
+[Paulo Anselmo da Mota Silveira Neto](https://orcid.org/0000-0003-0197-8249)
+
+[Eduardo Santana de Almeida](https://orcid.org/0000-0002-9312-6715)
+
+_Submitted to the European Conference on Software Architecture (ECSA 2026)_
+
+---
+
+# Abstract
+
+Edge AI-based systems distribute intelligence across heterogeneous, resource-constrained environments along the 
+continuum. Despite growing adoption, their architectural practices remain poorly consolidated in open-source software, 
+and the label *Edge AI* is often applied to artifacts with uneven architectural relevance.
+
+This paper reports an empirical study of open-source GitHub repositories identified through repository mining and 
+analyzed through qualitative coding informed by ISO/IEC 30141, ISO/IEC/IEEE 42010, and ISO/IEC 25010. We examine 
+capability distributions, architectural patterns, documentation practices, and architecturally relevant quality concerns.
+
+The results show a predominance of supporting, interface, and data capabilities, with most systems emphasizing 
+infrastructure-oriented and cross-layer concerns across device, edge, fog, and cloud environments. Architectural 
+knowledge is documented mainly through executable and operational artifacts, such as configuration, interface, and 
+deployment files, rather than explicit architecture descriptions. Quality concerns are strongly runtime-centered, 
+especially reliability, maintainability, and performance efficiency, while concerns such as safety assurance and energy 
+awareness appear only marginally.
+
+These findings expose recurring blind spots in open-source Edge AI practice and provide an empirical basis for future 
+architectural guidance and evaluation.
+
+---
+
+# Overview
+
+This repository contains the complete supplementary material and replication package associated with our empirical study 
+on architectural practices in Edge AI–based systems.
+
+The package was designed to support:
+
+* transparency of the research process;
+* traceability between evidence, scripts, and findings;
+* reproducibility of analytical outputs;
+* methodological inspection; and
+* reuse and extension of the study artifacts.
+
+The repository includes:
+
+* repository collection and preprocessing pipelines;
+* curated analytical datasets;
+* qualitative coding and adjudication artifacts;
+* statistical analysis scripts;
+* generated tables and visualizations; and
+* traceability-oriented supporting material.
+
+---
+
+# Quick Reproduction
+
+The primary analytical outputs reported in the study can be reproduced using the following steps.
+
+## 1. Install Dependencies
+
+```bash id="0s0nhv"
+pip install -r docs/requirements.txt
+```
+
+Additional setup instructions are available in:
+
+```text id="lc2j3s"
+INSTALL.md
+```
+
+---
+
+## 2. Execute the Analysis Pipeline
+
+### Quantitative Analysis
+
+```bash id="vq22sp"
+cd pipeline/analysis/scripts/stats
+
+python quantitative_analyzer.py
+python capability_analyzer.py
+```
+
+---
+
+### Inter-Rater Agreement Analysis
+
+```bash id="2n1kki"
+cd ../kappa
+
+python capability_kappa.py
+python quality_kappa.py
+```
+
+---
+
+### Architectural Documentation Scan
+
+```bash id="2ch0lq"
+cd ../scan
+
+python scan_arch_docs.py
+python build_priority_queue.py
+```
+
+---
+
+## 3. Generated Outputs
+
+Generated artifacts will be available in:
+
+```text id="s00b0o"
+pipeline/analysis/output/
+```
+
+This directory contains:
+
+* tables;
+* charts;
+* agreement statistics;
+* machine-readable reports; and
+* derived analytical artifacts.
+
+---
+
+# Repository Structure
+
+```text id="ynctdj"
+.
+├── artifacts/     -> methodological and qualitative study artifacts
+├── docs/          -> supporting documentation and dependencies
+├── pipeline/      -> collection and analytical processing pipelines
+├── INSTALL.md     -> installation and environment setup
+├── LICENSE        -> repository license
+└── README.md
+```
+
+---
+
+# Repository Organization
+
+The repository is organized into three main conceptual areas:
+
+| Directory    | Purpose                                                 |
+| ------------ | ------------------------------------------------------- |
+| `artifacts/` | Qualitative, methodological, and traceability artifacts |
+| `pipeline/`  | Executable collection and analysis workflows            |
+| `docs/`      | Supporting documentation and dependency specifications  |
+
+---
+
+# Artifacts
+
+The `artifacts/` directory contains the primary methodological and qualitative artifacts used throughout the study.
+
+## Structure
+
+```text id="n2l09m"
+artifacts/
+├── coding/
+├── evidence/
+├── screening/
+├── statistics/
+├── taxonomy/
+└── workbook/
+```
+
+---
+
+## Coding Artifacts
+
+Contains:
+
+* coding support artifacts;
+* inter-rater agreement documentation; and
+* extracted fragment collections.
+
+Key files:
+
+* `all_collected_fragments.csv`
+* `irr_agreement.md`
+
+---
+
+## Evidence Artifacts
+
+Contains manually reviewed and curated evidence artifacts used during the architecture-oriented assessment.
+
+Key files:
+
+* `fragments_used.csv`
+* `manual_review_artifacts_ISO42010.csv`
+
+---
+
+## Screening Artifacts
+
+Contains the screening and eligibility support material used during corpus selection.
+
+Key files:
+
+* `eligibility_criteria.md`
+* `included_by_criteria.csv`
+
+---
+
+## Taxonomy Artifacts
+
+Contains conceptual classification and architectural synthesis artifacts.
+
+Key files:
+
+* `architectural_building_blocks.md`
+* `domain_taxonomy.csv`
+
+---
+
+## Statistical Artifacts
+
+Contains descriptive summaries regarding the empirical evidence base.
+
+Key files:
+
+* `empirical-evidence-statistics.md`
+
+---
+
+## Workbook
+
+Contains the master operational spreadsheet used during the study execution.
+
+Key file:
+
+* `master_study_workbook.xlsx`
+
+---
+
+# Pipeline
+
+The `pipeline/` directory contains the executable workflows responsible for:
+
+* repository collection;
+* preprocessing;
+* dataset construction;
+* analysis execution; and
+* output generation.
+
+## Structure
+
+```text id="h2ib92"
+pipeline/
+├── collection/
+└── analysis/
+```
+
+---
+
+# Collection Pipeline
+
+The `pipeline/collection/` directory contains the repository discovery and preprocessing workflow.
+
+It includes:
+
+* API-based repository search scripts;
+* preprocessing utilities;
+* raw search outputs;
+* processed datasets; and
+* repository retrieval support.
+
+Additional details are available in:
+
+```text id="ajygvr"
+pipeline/collection/README.md
+```
+
+---
+
+# Analysis Pipeline
+
+The `pipeline/analysis/` directory contains:
+
+* curated datasets;
+* analytical scripts;
+* agreement analysis workflows;
+* generated outputs; and
+* publication-oriented artifacts.
+
+## Main Components
+
+| Directory  | Purpose                               |
+| ---------- | ------------------------------------- |
+| `dataset/` | Curated analytical datasets           |
+| `scripts/` | Statistical and processing scripts    |
+| `output/`  | Generated tables, charts, and reports |
+
+Additional details are available in:
+
+```text id="x5r9cs"
+pipeline/analysis/README.md
+```
+
+---
+
+# Replication Workflow
+
+The study workflow implemented in this repository follows the sequence below:
+
+1. Repository discovery and retrieval
+2. Dataset preprocessing and filtering
+3. Eligibility screening
+4. Fragment extraction
+5. Manual coding and adjudication
+6. Quantitative and qualitative analysis
+7. Agreement computation
+8. Figure and table generation
+9. Result consolidation
+
+---
+
+# Traceability to Research Questions
+
+| Research Question | Main Supporting Artifacts   |
+|-------------------|-----------------------------|
+| `[RQ1 HERE]`      | `[ARTIFACTS HERE]`          |
+| `[RQ2 HERE]`      | `[ARTIFACTS HERE]`          |
+| `[RQ3 HERE]`      | `[ARTIFACTS HERE]`          |
+| `[RQ4 HERE]`      | `[ARTIFACTS HERE]`          |
+
+
+---
+
+# Reproducibility Support
+
+This package provides:
+
+* public access to analytical artifacts;
+* executable analysis scripts;
+* curated datasets;
+* methodological documentation;
+* generated outputs; and
+* explicit traceability support.
+
+The repository was structured to facilitate:
+
+* repeatability;
+* independent inspection;
+* partial reproducibility; and
+* future study extensions.
+
+---
+
+# Limitations
+
+This replication package reflects the state of the analyzed repositories during the study execution period.
+
+External factors such as:
+
+* repository removal;
+* repository evolution;
+* metadata drift;
+* API changes; or
+* platform availability
+
+may affect exact reconstruction of the original corpus over time.
+
+---
+
+[//]: # (# Citation)
+
+[//]: # ()
+[//]: # (If you use this replication package, please cite:)
+
+[//]: # ()
+[//]: # (```bibtex id="7pt6zn")
+
+[//]: # ([BIBTEX HERE])
+
+[//]: # (```)
+
+---
+# License
+
+This repository is distributed under the terms of the MIT License.
+
+Third-party repositories, datasets, and external artifacts referenced or analyzed in this study remain subject to their respective original licenses.
+
+See:
+
+```text
+LICENSE

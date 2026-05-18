@@ -1,0 +1,6 @@
+item,value
+input_file,../../dataset/irr_capabilities.csv
+output_directory,../../results/kappa
+n_capability_groups,3
+rater_labels,"R1, R2, R3"
+overall_macro_kappa,0.8713547359356061

@@ -1,0 +1,10 @@
+label,count,percentage
+edge ai,24,24.24
+edge-iot,24,24.24
+edge iot,20,20.2
+edge-ai,16,16.16
+tinyml,7,7.07
+edgetpu,4,4.04
+edgeai,2,2.02
+edge,1,1.01
+edge architecture,1,1.01

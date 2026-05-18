@@ -1,0 +1,10 @@
+capability,rater_pair,kappa,n_records,column_a,column_b
+capability_1,R1_vs_R2,0.7516722408026756,99,iso_map_C1-[R1],iso_map_C1-[R2]
+capability_1,R1_vs_R3,0.7766400555362721,99,iso_map_C1-[R1],iso_map_C1-[R3]
+capability_1,R2_vs_R3,0.8779929577464789,99,iso_map_C1-[R2],iso_map_C1-[R3]
+capability_2,R1_vs_R2,0.8820425531914894,99,iso_map_C2-[R1],iso_map_C2-[R2]
+capability_2,R1_vs_R3,0.9302079661614382,99,iso_map_C2-[R1],iso_map_C2-[R3]
+capability_2,R2_vs_R3,0.9008181666388378,99,iso_map_C2-[R2],iso_map_C2-[R3]
+capability_3,R1_vs_R2,0.8789942378208486,99,iso_map_C3-[R1],iso_map_C3-[R2]
+capability_3,R1_vs_R3,0.9302571327932371,99,iso_map_C3-[R1],iso_map_C3-[R3]
+capability_3,R2_vs_R3,0.9135673127291776,99,iso_map_C3-[R2],iso_map_C3-[R3]

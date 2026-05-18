@@ -1,0 +1,15 @@
+,0
+input_file,../../dataset/irr_quality_requirements.csv
+output_dir,../../results/kappa
+n_fragments,400
+n_attributes_detected,9
+rater_1_col,quality_r1
+rater_2_col,quality_r2
+rater_3_col,quality_r3
+rater_1_label,R1
+rater_2_label,R2
+rater_3_label,R3
+overall_macro_kappa,0.84927713425409
+overall_macro_observed_agreement,0.9740740740740742
+overall_exact_set_agreement,0.8616666666666667
+overall_mean_jaccard_similarity,0.9050694444444444
