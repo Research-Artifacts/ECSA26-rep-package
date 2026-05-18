@@ -61,7 +61,7 @@ documentation, reinforcing the need for fragment-based analysis.
 [Evidence File](../../pipeline/analysis/dataset/study_corpus.csv) `Column: sa_doc`
 
 
-## RQ1.1 — Capability Distribution
+## RQ1 — Capability Distribution
 
 | Capability Family | Count | Percentage |
 |-------------------|-------|------------|
@@ -95,7 +95,7 @@ the prominence of fog and device layers, especially for data capabilities.
 
 
 
-## RQ1.1 — Application Domains (Multi-label)
+## RQ1 — Application Domains (Multi-label)
 
 | Domain                    | Count | Percentage |
 |---------------------------|-------|------------|
@@ -127,7 +127,7 @@ Domains were treated as multi-label categories. Therefore, percentages exceed 10
 
 [Evidence File](../../pipeline/analysis/dataset/study_corpus.csv)  `Column: domain`
 
-## RQ1.1 — Project Types
+## RQ1 — Project Types
 
 | Type        | Count | Percentage |
 |-------------|-------|------------|
@@ -145,7 +145,7 @@ projects.
 
 [Evidence File](../../pipeline/analysis/dataset/study_corpus.csv)  `Column: project_type`
 
-## RQ1.4 — Quality Attributes
+## RQ4 — Quality Attributes
 
 | Quality Attribute      | Count | Percentage |
 |------------------------|-------|------------|
@@ -164,4 +164,4 @@ are almost absent in the analyzed evidence.
 
 ![quality_attribute_distribution.png](../../pipeline/analysis/output/charts/quality_attribute_distribution.png)
 
-[Evidence File](../evidence/fragments_used.csv) `Column: quality_attribute`
+[Evidence File](../evidence/selected_fragments.csv) `Column: quality_attribute`

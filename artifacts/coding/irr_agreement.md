@@ -1,7 +1,7 @@
 # Inter-Rater Reliability (IRR) Analysis
 
 This directory documents the inter-rater reliability (IRR) procedures adopted in the study for the structured 
-classification activities associated with **RQ1.1** and **RQ1.4**.
+classification activities associated with **RQ1** and **RQ4**.
 
 In the paper, we report only the aggregate reliability indicators to preserve space and maintain narrative flow. This 
 supplementary material provides the expanded results and the corresponding analysis files used to support those 
@@ -12,13 +12,13 @@ summaries.
 The IRR analysis was applied only to the research questions that required **explicit structured classification rules** 
 beyond open coding:
 
-**RQ1.1**: _classification of capability-related evidence according to the adopted capability groups._
+**RQ1**: _classification of capability-related evidence according to the adopted capability groups._
 
 `What quantitative distribution patterns emerge in open-source Edge AI-based systems with respect to ISO/IEC 30141 
 capabilities, application domains, and project types?` 
 
 
-**RQ1.4**: _classification of quality-related evidence according to the adopted quality attributes._
+**RQ4**: _classification of quality-related evidence according to the adopted quality attributes._
 
 `What quality requirements are considered when architecting Edge AI-based Systems?`
 
@@ -26,7 +26,7 @@ capabilities, application domains, and project types?`
 These procedures were designed to assess the consistency of independent coding decisions before consolidation of the 
 final classifications reported in the study.
 
-## RQ1.1 — Capability classification reliability
+## RQ1 — Capability classification reliability
 
 For the capability-oriented classification procedure, three raters independently assessed the capability assignments 
 under the adopted classification scheme.
@@ -59,7 +59,7 @@ capability classification task.
 *  [capability_kappa_summary.csv](../../pipeline/analysis/output/kappa/capability_kappa_summary.csv) — summarized capability agreement results
 *  [kappa_by_capability.csv](../../pipeline/analysis/output/kappa/kappa_by_capability.csv) — pairwise kappa values by capability group
 
-## RQ1.4 — Quality classification reliability
+## RQ4 — Quality classification reliability
 
 For the quality-oriented classification procedure, three raters independently labeled the extracted architectural 
 fragments according to the adopted quality attributes.
