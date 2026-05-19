@@ -67,20 +67,11 @@ The following script generates a prioritized review queue from the raw architect
 Candidate files are ranked using heuristic scoring based on architecture-related patterns to support manual inspection 
 and reduce validation effort.
 
-
 ```bash
 python build_priority_queue.py \
   --input ../../outputs/json/arch_doc_scan_raw.json \
   --output-dir ../../outputs/tables/
 ```
-
-After generation, reviewers manually inspect the prioritized evidence files and assign labels such as:
-
-* `TP` (True Positive)
-* `FP` (False Positive)
-* `UNCLEAR`
-
-The validated review queue is then used as input for the final project-level aggregation step.
 
 ### 5) Build project-level summary for the paper
 
@@ -98,7 +89,8 @@ This produces:
 
 ## Coding logic
 
-The scanner is intentionally conservative. It does **not** claim that a file is a formal architecture description. Instead, it records **architecture-relevant documentary evidence** that may later be validated manually.
+The scanner is intentionally conservative. It does **not** claim that a file is a formal architecture description. 
+Instead, it records **architecture-relevant documentary evidence** that may later be validated manually.
 
 Categories used in this package:
 
@@ -114,7 +106,7 @@ Categories used in this package:
 
 ## Suggested reporting rule
 
-For RQ3, prefer **project-level presence** over raw file counts.
+For RQ2, prefer **project-level presence** over raw file counts.
 
 Example:
 

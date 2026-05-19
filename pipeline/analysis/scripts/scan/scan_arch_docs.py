@@ -20,8 +20,6 @@ Generated outputs
 -----------------
 - arch_doc_scan_raw.json:
   Repository-level scan results with all detected evidence.
-- arch_doc_scan_project_summary.csv:
-  One row per repository, summarizing detected categories.
 - arch_doc_scan_evidence.csv:
   One row per evidence path, useful for inspection and follow-up review.
 
@@ -64,7 +62,6 @@ from pathlib import Path
 from typing import Iterable, Optional
 
 ARCH_DOC_SCAN_RAW_JSON = "arch_doc_scan_raw.json"
-ARCH_DOC_SCAN_PROJECT_SUMMARY_CSV = "arch_doc_scan_project_summary.csv"
 ARCH_DOC_SCAN_EVIDENCE_CSV = "arch_doc_scan_evidence.csv"
 
 LOGGER = logging.getLogger("scan_arch_docs")
@@ -306,18 +303,6 @@ def write_json(results: list[RepoScanResult], output_path: Path) -> None:
     output_path.write_text(json.dumps(serializable, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
-def write_project_summary(results: list[RepoScanResult], output_path: Path) -> None:
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    fieldnames = ["repo", "repo_path", "evidence_count", *[f"has_{category}" for category in CATEGORIES]]
-    with output_path.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=fieldnames)
-        writer.writeheader()
-        for result in results:
-            row = {"repo": result.repo, "repo_path": result.repo_path, "evidence_count": result.evidence_count}
-            row.update(result.flags)
-            writer.writerow(row)
-
-
 def write_evidence_rows(results: list[RepoScanResult], output_path: Path) -> None:
     fieldnames = ["repo", "category", "evidence_path"]
     with output_path.open("w", encoding="utf-8", newline="") as handle:
@@ -374,7 +359,6 @@ def main() -> None:
 
 
     write_json(results, output_dir / "json" / ARCH_DOC_SCAN_RAW_JSON)
-    write_project_summary(results, output_dir/ "tables" / ARCH_DOC_SCAN_PROJECT_SUMMARY_CSV)
     write_evidence_rows(results, output_dir / "tables"/ ARCH_DOC_SCAN_EVIDENCE_CSV)
 
     LOGGER.info("Done. Outputs written to %s", output_dir)
