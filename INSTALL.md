@@ -11,8 +11,8 @@
 ### 2) Clone the repository
 
 ```bash
-git clone https://github.com/Research-Artifacts/es_edgeai_ecsa26.git
-cd es_edgeai_ecsa26
+git clone git@github.com:Research-Artifacts/ECSA26-rep-package.git
+cd ECSA26-rep-package
 ```
 
 ---

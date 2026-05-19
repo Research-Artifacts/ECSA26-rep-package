@@ -22,10 +22,10 @@ _Submitted to the European Conference on Software Architecture (ECSA 2026)_
 
 Edge AI-based systems distribute intelligence across heterogeneous, resource-constrained environments along the 
 continuum. Despite growing adoption, their architectural practices remain poorly consolidated in open-source software, 
-and the label *Edge AI* is often applied to artifacts with uneven architectural relevance.
+and the label `Edge AI` is often applied to artifacts with uneven architectural relevance.
 
 This paper reports an empirical study of open-source GitHub repositories identified through repository mining and 
-analyzed through qualitative coding informed by ISO/IEC 30141, ISO/IEC/IEEE 42010, and ISO/IEC 25010. We examine 
+analyzed through qualitative coding informed by **ISO/IEC 30141**, **ISO/IEC/IEEE 42010**, and **ISO/IEC 25010**. We examine 
 capability distributions, architectural patterns, documentation practices, and architecturally relevant quality concerns.
 
 The results show a predominance of supporting, interface, and data capabilities, with most systems emphasizing 
@@ -70,58 +70,57 @@ The primary analytical outputs reported in the study can be reproduced using the
 
 ## 1. Install Dependencies
 
-```bash id="0s0nhv"
+```bash
 pip install -r docs/requirements.txt
 ```
 
 Additional setup instructions are available in:
 
-```text id="lc2j3s"
-INSTALL.md
-```
+
+[INSTALL.md](INSTALL.md)
 
 ---
 
-## 2. Execute the Analysis Pipeline
+## 2. Reproducing the Study
 
-### Quantitative Analysis
+The executable workflows associated with repository collection, preprocessing, and analytical processing are organized 
+under the [pipeline](pipeline) directory.
 
-```bash id="vq22sp"
-cd pipeline/analysis/scripts/stats
+### Collection Pipeline
 
-python quantitative_analyzer.py
-python capability_analyzer.py
-```
+The repository discovery and preprocessing workflow are documented in:
 
----
+**[README.md](pipeline/collection/README.md)**
 
-### Inter-Rater Agreement Analysis
+This includes:
 
-```bash id="2n1kki"
-cd ../kappa
-
-python capability_kappa.py
-python quality_kappa.py
-```
+* repository mining;
+* preprocessing steps;
+* raw dataset generation; and
+* repository retrieval procedures.
 
 ---
 
-### Architectural Documentation Scan
+### Analysis Pipeline
 
-```bash id="2ch0lq"
-cd ../scan
+The analytical workflow is documented in:
 
-python scan_arch_docs.py
-python build_priority_queue.py
-```
+**[README.md](pipeline/analysis/README.md)**
 
----
+This includes:
+
+* dataset preparation;
+* statistical analysis;
+* agreement computation;
+* architectural documentation scanning; and
+* generation of figures and tables.
+
 
 ## 3. Generated Outputs
 
 Generated artifacts will be available in:
 
-```text id="s00b0o"
+```text
 pipeline/analysis/output/
 ```
 
@@ -137,7 +136,7 @@ This directory contains:
 
 # Repository Structure
 
-```text id="ynctdj"
+```text
 .
 ├── artifacts/     -> methodological and qualitative study artifacts
 ├── docs/          -> supporting documentation and dependencies
@@ -167,7 +166,7 @@ The `artifacts/` directory contains the primary methodological and qualitative a
 
 ## Structure
 
-```text id="n2l09m"
+```text
 artifacts/
 ├── coding/
 ├── evidence/
@@ -181,16 +180,13 @@ artifacts/
 
 ## Coding Artifacts
 
-Contains:
-
-* coding support artifacts;
-* inter-rater agreement documentation; and
-* extracted fragment collections.
+Contains methodological artifacts related to:
+- qualitative coding procedures;
+- adjudication activities; and
+- inter-rater agreement documentation.
 
 Key files:
-
-* `all_collected_fragments.csv`
-* `irr_agreement.md`
+- [irr_agreement.md](artifacts/coding/irr_agreement.md)
 
 ---
 
@@ -200,8 +196,9 @@ Contains manually reviewed and curated evidence artifacts used during the archit
 
 Key files:
 
-* `fragments_used.csv`
-* `manual_review_artifacts_ISO42010.csv`
+* [all_collected_fragments.csv](artifacts/evidence/all_collected_fragments.csv)
+* [selected_fragments.csv](artifacts/evidence/selected_fragments.csv)
+* [manual_review_artifacts_ISO42010.csv](artifacts/evidence/manual_review_artifacts_ISO42010.csv)
 
 ---
 
@@ -211,19 +208,8 @@ Contains the screening and eligibility support material used during corpus selec
 
 Key files:
 
-* `eligibility_criteria.md`
-* `included_by_criteria.csv`
-
----
-
-## Taxonomy Artifacts
-
-Contains conceptual classification and architectural synthesis artifacts.
-
-Key files:
-
-* `architectural_building_blocks.md`
-* `domain_taxonomy.csv`
+* [eligibility_criteria.md](artifacts/screening/eligibility_criteria.md)
+* [included_repositories.csv](artifacts/screening/included_repositories.csv)
 
 ---
 
@@ -233,7 +219,18 @@ Contains descriptive summaries regarding the empirical evidence base.
 
 Key files:
 
-* `empirical-evidence-statistics.md`
+* [empirical-evidence-statistics.md](artifacts/statistics/empirical-evidence-statistics.md)
+
+---
+
+## Taxonomy Artifacts
+
+Contains conceptual classification and architectural synthesis artifacts.
+
+Key files:
+
+* [architectural_building_blocks.md](artifacts/taxonomy/architectural_building_blocks.md)
+* [domain_taxonomy.csv](artifacts/taxonomy/domain_taxonomy.csv)
 
 ---
 
@@ -243,7 +240,7 @@ Contains the master operational spreadsheet used during the study execution.
 
 Key file:
 
-* `master_study_workbook.xlsx`
+* [master_study_workbook.xlsx](artifacts/workbook/master_study_workbook.xlsx)
 
 ---
 
@@ -259,7 +256,7 @@ The `pipeline/` directory contains the executable workflows responsible for:
 
 ## Structure
 
-```text id="h2ib92"
+```text
 pipeline/
 ├── collection/
 └── analysis/
@@ -281,9 +278,7 @@ It includes:
 
 Additional details are available in:
 
-```text id="ajygvr"
-pipeline/collection/README.md
-```
+[README.md](pipeline/collection/README.md)
 
 ---
 
@@ -299,17 +294,15 @@ The `pipeline/analysis/` directory contains:
 
 ## Main Components
 
-| Directory  | Purpose                               |
-| ---------- | ------------------------------------- |
-| `dataset/` | Curated analytical datasets           |
-| `scripts/` | Statistical and processing scripts    |
-| `output/`  | Generated tables, charts, and reports |
+| Directory   | Purpose                                |
+|-------------|----------------------------------------|
+| `dataset/`  | Curated analytical datasets            |
+| `scripts/`  | Statistical and processing scripts     |
+| `output/`   | Generated tables, charts, and reports  |
 
 Additional details are available in:
 
-```text id="x5r9cs"
-pipeline/analysis/README.md
-```
+[README.md](pipeline/analysis/README.md)
 
 ---
 
@@ -331,12 +324,12 @@ The study workflow implemented in this repository follows the sequence below:
 
 # Traceability to Research Questions
 
-| Research Question | Main Supporting Artifacts   |
-|-------------------|-----------------------------|
-| `[RQ1 HERE]`      | `[ARTIFACTS HERE]`          |
-| `[RQ2 HERE]`      | `[ARTIFACTS HERE]`          |
-| `[RQ3 HERE]`      | `[ARTIFACTS HERE]`          |
-| `[RQ4 HERE]`      | `[ARTIFACTS HERE]`          |
+| Research Question | Main Supporting Artifacts  |
+|-------------------|----------------------------|
+| `[RQ1]`           | `[ARTIFACTS HERE]`         |
+| `[RQ2]`           | `[ARTIFACTS HERE]`         |
+| `[RQ3]`           | `[ARTIFACTS HERE]`         |
+| `[RQ4]`           | `[ARTIFACTS HERE]`         |
 
 
 ---
@@ -373,7 +366,7 @@ External factors such as:
 * API changes; or
 * platform availability
 
-may affect exact reconstruction of the original corpus over time.
+may affect the exact reconstruction of the original corpus over time.
 
 ---
 
@@ -398,5 +391,4 @@ Third-party repositories, datasets, and external artifacts referenced or analyze
 
 See:
 
-```text
-LICENSE
+[LICENSE](LICENSE)
