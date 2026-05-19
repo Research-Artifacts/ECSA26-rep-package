@@ -1,6 +1,6 @@
 # EdgeAI RQ2 Replication Package
 
-This package rebuilds the evidence base for **RQ3 – Architectural Documentation of Edge AI Systems**.
+This package rebuilds the evidence base for **RQ2 – Architectural Documentation of Edge AI Systems**.
 
 It implements a reproducible pipeline with four stages:
 
@@ -51,7 +51,7 @@ python download_repos.py \
 ```bash
 python scan_arch_docs.py \
   --workspace ./workspace \ 
-  --output-dir ../../outputs 
+  --output-dir ../../outputs/
 ```
 
 This produces:
