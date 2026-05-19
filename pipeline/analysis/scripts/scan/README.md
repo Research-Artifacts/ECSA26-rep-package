@@ -42,7 +42,7 @@ kubeedge,https://github.com/kubeedge/kubeedge.git,master
 ```bash
 python download_repos.py \
   --input ../../dataset/repositories.csv \
-  --workspace ./workspace \ # Folder containing repositories
+  --workspace ./workspace \ # Folder containing cloned repositories
   --depth 1
 ```
 
