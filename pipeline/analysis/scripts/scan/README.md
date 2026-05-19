@@ -42,7 +42,7 @@ kubeedge,https://github.com/kubeedge/kubeedge.git,master
 ```bash
 python download_repos.py \
   --input ../../dataset/repositories.csv \
-  --workspace ./workspace \
+  --workspace ./workspace \ # Folder containing repositories
   --depth 1
 ```
 
@@ -50,14 +50,13 @@ python download_repos.py \
 
 ```bash
 python scan_arch_docs.py \
-  --workspace ./workspace \ # Folder containing repositories
-  --output-dir ../../outputs # Output directory
+  --workspace ./workspace \ 
+  --output-dir ../../outputs 
 ```
 
 This produces:
 
 - `arch_doc_scan_raw.json` – repository-level raw evidence
-- `arch_doc_scan_project_summary.csv` – one row per repository
 - `arch_doc_scan_evidence.csv` – one row per evidence path
 
 
@@ -68,7 +67,7 @@ Candidate files are ranked using heuristic scoring based on architecture-related
 and reduce validation effort.
 
 ```bash
-python build_priority_queue.py \
+python build_manual_checklist.py \
   --input ../../outputs/json/arch_doc_scan_raw.json \
   --output-dir ../../outputs/tables/
 ```
