@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Scan repositories for architecture-documentation evidence for RQ1.3.
+"""Scan repositories for architecture-documentation evidence for RQ3.
 
 This script is part of the replication package for the empirical study on
 Edge AI repositories. Its goal is to identify repository artifacts that may
@@ -291,6 +291,7 @@ def scan_repository(repo_dir: Path) -> RepoScanResult:
 
 
 def write_json(results: list[RepoScanResult], output_path: Path) -> None:
+    output_path.parent.mkdir(parents=True, exist_ok=True)
     serializable = []
     for result in results:
         serializable.append(
@@ -306,6 +307,7 @@ def write_json(results: list[RepoScanResult], output_path: Path) -> None:
 
 
 def write_project_summary(results: list[RepoScanResult], output_path: Path) -> None:
+    output_path.parent.mkdir(parents=True, exist_ok=True)
     fieldnames = ["repo", "repo_path", "evidence_count", *[f"has_{category}" for category in CATEGORIES]]
     with output_path.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=fieldnames)

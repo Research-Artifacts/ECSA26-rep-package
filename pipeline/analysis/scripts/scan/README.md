@@ -41,7 +41,7 @@ kubeedge,https://github.com/kubeedge/kubeedge.git,master
 
 ```bash
 python download_repos.py \
-  --input repos.csv \
+  --input ../../dataset/repositories.csv \
   --workspace ./workspace \
   --depth 1
 ```
@@ -50,8 +50,8 @@ python download_repos.py \
 
 ```bash
 python scan_arch_docs.py \
-  --workspace ./workspace \
-  --output-dir ./outputs
+  --workspace ./workspace \ # Folder containing repositories
+  --output-dir ../../outputs # Output directory
 ```
 
 This produces:
