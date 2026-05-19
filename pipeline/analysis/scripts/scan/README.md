@@ -1,4 +1,4 @@
-# EdgeAI RQ3 Replication Package
+# EdgeAI RQ2 Replication Package
 
 This package rebuilds the evidence base for **RQ3 – Architectural Documentation of Edge AI Systems**.
 
