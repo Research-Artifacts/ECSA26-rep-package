@@ -39,29 +39,31 @@ These findings expose recurring blind spots in open-source Edge AI practice and 
 architectural guidance and evaluation.
 
 ---
-
 # Overview
 
 This repository contains the complete supplementary material and replication package associated with our empirical study 
-on architectural practices in Edge AI–based systems.
+on architectural practices in **Edge AI–based systems**.
 
 The package was designed to support:
-
-* transparency of the research process;
-* traceability between evidence, scripts, and findings;
-* reproducibility of analytical outputs;
-* methodological inspection; and
-* reuse and extension of the study artifacts.
+- transparency of the research process;
+- traceability between evidence, scripts, and findings;
+- methodological inspection;
+- reproducibility of analytical outputs; and
+- reuse and extension of the study artifacts.
 
 The repository includes:
+- repository collection and preprocessing pipelines;
+- curated analytical datasets;
+- qualitative coding and adjudication artifacts;
+- executable analysis scripts;
+- generated tables and visualizations; and
+- traceability-oriented supporting material.
 
-* repository collection and preprocessing pipelines;
-* curated analytical datasets;
-* qualitative coding and adjudication artifacts;
-* statistical analysis scripts;
-* generated tables and visualizations; and
-* traceability-oriented supporting material.
-
+The repository structure was organized to facilitate:
+- repeatability;
+- independent inspection;
+- partial reproducibility; and
+- future study extensions.
 ---
 
 # Quick Reproduction
@@ -330,25 +332,6 @@ The study workflow implemented in this repository follows the sequence below:
 | `[RQ2]`           | [arch_doc_scan_evidence.csv](pipeline/analysis/output/tables/arch_doc_scan_evidence.csv), [priority_review_queue.csv](pipeline/analysis/output/tables/priority_review_queue.csv), [manual_review_artifacts_ISO42010.csv](artifacts/evidence/manual_review_artifacts_ISO42010.csv) |
 | `[RQ3]`           | [architectural_building_blocks.md](artifacts/taxonomy/architectural_building_blocks.md)                                                                                                                                                                                           |
 | `[RQ4]`           | [selected_fragments.csv](artifacts/evidence/selected_fragments.csv)                                                                                                                                                                                                               |
-
----
-# Reproducibility Support
-
-This package provides:
-
-* public access to analytical artifacts;
-* executable analysis scripts;
-* curated datasets;
-* methodological documentation;
-* generated outputs; and
-* explicit traceability support.
-
-The repository was structured to facilitate:
-
-* repeatability;
-* independent inspection;
-* partial reproducibility; and
-* future study extensions.
 
 ---
 
