@@ -1,0 +1,8 @@
+{
+  "total_rows": 528,
+  "tp_rows": 397,
+  "fp_rows": 131,
+  "unclear_rows": 0,
+  "validated_projects_denominator": 89,
+  "counting_rule": "A project is counted in category X if at least one evidence row is manually labeled TP for category X."
+}

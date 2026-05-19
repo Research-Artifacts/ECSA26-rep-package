@@ -1,7 +1,7 @@
 [
   {
     "repo": "AI-on-the-edge-device",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/AI-on-the-edge-device",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/AI-on-the-edge-device",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -56,7 +56,7 @@
   },
   {
     "repo": "AISonobuoy",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/AISonobuoy",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/AISonobuoy",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -109,7 +109,7 @@
   },
   {
     "repo": "AiCSD",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/AiCSD",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/AiCSD",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -342,7 +342,7 @@
   },
   {
     "repo": "BirdsEye",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/BirdsEye",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/BirdsEye",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -403,7 +403,7 @@
   },
   {
     "repo": "BitNetMCU",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/BitNetMCU",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/BitNetMCU",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -492,7 +492,7 @@
   },
   {
     "repo": "DeepStack",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/DeepStack",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/DeepStack",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -559,7 +559,7 @@
   },
   {
     "repo": "FogBus2",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/FogBus2",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/FogBus2",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -766,7 +766,7 @@
   },
   {
     "repo": "JAMScript",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/JAMScript",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/JAMScript",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -1124,7 +1124,7 @@
   },
   {
     "repo": "KAN",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/KAN",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/KAN",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -1457,7 +1457,7 @@
   },
   {
     "repo": "LiteRT",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/LiteRT",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/LiteRT",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -2813,7 +2813,7 @@
   },
   {
     "repo": "MaixPy",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/MaixPy",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/MaixPy",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -3159,7 +3159,7 @@
   },
   {
     "repo": "ModelAssistant",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/ModelAssistant",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/ModelAssistant",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -3272,7 +3272,7 @@
   },
   {
     "repo": "NanoLLM",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/NanoLLM",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/NanoLLM",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -3317,7 +3317,7 @@
   },
   {
     "repo": "Olares",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/Olares",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/Olares",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -6012,7 +6012,7 @@
   },
   {
     "repo": "SydneyQt",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/SydneyQt",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/SydneyQt",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -6047,7 +6047,7 @@
   },
   {
     "repo": "Vitis-AI",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/Vitis-AI",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/Vitis-AI",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -6726,7 +6726,7 @@
   },
   {
     "repo": "WasmEdge",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/WasmEdge",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/WasmEdge",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -6933,7 +6933,7 @@
   },
   {
     "repo": "aXeleRate",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/aXeleRate",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/aXeleRate",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -6979,7 +6979,7 @@
   },
   {
     "repo": "ai-edge",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/ai-edge",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/ai-edge",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -7110,7 +7110,7 @@
   },
   {
     "repo": "ai8x-synthesis",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/ai8x-synthesis",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/ai8x-synthesis",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -8095,7 +8095,7 @@
   },
   {
     "repo": "ai8x-training",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/ai8x-training",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/ai8x-training",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -8178,7 +8178,7 @@
   },
   {
     "repo": "auritus",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/auritus",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/auritus",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -8242,7 +8242,7 @@
   },
   {
     "repo": "aws-iot-fleetwise-edge",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/aws-iot-fleetwise-edge",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/aws-iot-fleetwise-edge",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -8375,7 +8375,7 @@
   },
   {
     "repo": "azure-iot-edge-identity-translation-lite",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/azure-iot-edge-identity-translation-lite",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/azure-iot-edge-identity-translation-lite",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -8439,7 +8439,7 @@
   },
   {
     "repo": "azure-iotedge",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/azure-iotedge",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/azure-iotedge",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -8473,7 +8473,7 @@
   },
   {
     "repo": "baetyl",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/baetyl",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/baetyl",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -8518,7 +8518,7 @@
   },
   {
     "repo": "compage",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/compage",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/compage",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -8586,7 +8586,7 @@
   },
   {
     "repo": "dem",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/dem",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/dem",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -8710,7 +8710,7 @@
   },
   {
     "repo": "edge-aio-in-a-box",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/edge-aio-in-a-box",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/edge-aio-in-a-box",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -8813,7 +8813,7 @@
   },
   {
     "repo": "edge-home-orchestration-go",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/edge-home-orchestration-go",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/edge-home-orchestration-go",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -8937,7 +8937,7 @@
   },
   {
     "repo": "edge-infer",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/edge-infer",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/edge-infer",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -8983,7 +8983,7 @@
   },
   {
     "repo": "edgeai-gst-apps",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/edgeai-gst-apps",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/edgeai-gst-apps",
     "flags": {
       "has_arch_overview": false,
       "has_context": false,
@@ -9036,7 +9036,7 @@
   },
   {
     "repo": "edgehog",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/edgehog",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/edgehog",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -9332,7 +9332,7 @@
   },
   {
     "repo": "edgehog-device-runtime",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/edgehog-device-runtime",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/edgehog-device-runtime",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -9411,7 +9411,7 @@
   },
   {
     "repo": "edgen",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/edgen",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/edgen",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -9491,7 +9491,7 @@
   },
   {
     "repo": "edgerunner",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/edgerunner",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/edgerunner",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -9528,7 +9528,7 @@
   },
   {
     "repo": "ekuiper",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/ekuiper",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/ekuiper",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -10243,7 +10243,7 @@
   },
   {
     "repo": "emlearn",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/emlearn",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/emlearn",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -10313,7 +10313,7 @@
   },
   {
     "repo": "eve",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/eve",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/eve",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -10792,7 +10792,7 @@
   },
   {
     "repo": "evio",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/evio",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/evio",
     "flags": {
       "has_arch_overview": false,
       "has_context": false,
@@ -10819,7 +10819,7 @@
   },
   {
     "repo": "executorch",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/executorch",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/executorch",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -11690,7 +11690,7 @@
   },
   {
     "repo": "fabedge",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/fabedge",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/fabedge",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -11871,7 +11871,7 @@
   },
   {
     "repo": "fedn",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/fedn",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/fedn",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -12051,7 +12051,7 @@
   },
   {
     "repo": "fledge",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/fledge",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/fledge",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -13825,7 +13825,7 @@
   },
   {
     "repo": "flogo",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/flogo",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/flogo",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -14002,7 +14002,7 @@
   },
   {
     "repo": "fogflow",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/fogflow",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/fogflow",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -14763,7 +14763,7 @@
   },
   {
     "repo": "hal-9100",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/hal-9100",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/hal-9100",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -14851,7 +14851,7 @@
   },
   {
     "repo": "heartkit",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/heartkit",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/heartkit",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -14979,7 +14979,7 @@
   },
   {
     "repo": "inngest",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/inngest",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/inngest",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -15248,7 +15248,7 @@
   },
   {
     "repo": "iotedge-eflow",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/iotedge-eflow",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/iotedge-eflow",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -15343,7 +15343,7 @@
   },
   {
     "repo": "iotedge-lorawan-starterkit",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/iotedge-lorawan-starterkit",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/iotedge-lorawan-starterkit",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -15712,7 +15712,7 @@
   },
   {
     "repo": "jevois",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/jevois",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/jevois",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -15749,7 +15749,7 @@
   },
   {
     "repo": "kantv",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/kantv",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/kantv",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -15924,7 +15924,7 @@
   },
   {
     "repo": "keylime",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/keylime",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/keylime",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -16089,7 +16089,7 @@
   },
   {
     "repo": "kubeedge",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/kubeedge",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/kubeedge",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -16700,7 +16700,7 @@
   },
   {
     "repo": "kura",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/kura",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/kura",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -16777,7 +16777,7 @@
   },
   {
     "repo": "loxilb",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/loxilb",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/loxilb",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -17207,7 +17207,7 @@
   },
   {
     "repo": "luos_engine",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/luos_engine",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/luos_engine",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -17263,7 +17263,7 @@
   },
   {
     "repo": "magistrala",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/magistrala",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/magistrala",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -17492,7 +17492,7 @@
   },
   {
     "repo": "microflow-rs",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/microflow-rs",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/microflow-rs",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -17558,7 +17558,7 @@
   },
   {
     "repo": "microshift",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/microshift",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/microshift",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -18489,7 +18489,7 @@
   },
   {
     "repo": "mindspore",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/mindspore",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/mindspore",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -25749,7 +25749,7 @@
   },
   {
     "repo": "model_server",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/model_server",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/model_server",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -26297,7 +26297,7 @@
   },
   {
     "repo": "montithings",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/montithings",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/montithings",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -26559,7 +26559,7 @@
   },
   {
     "repo": "nabto-embedded-sdk",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/nabto-embedded-sdk",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/nabto-embedded-sdk",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -26683,7 +26683,7 @@
   },
   {
     "repo": "nanomq",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/nanomq",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/nanomq",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -26945,7 +26945,7 @@
   },
   {
     "repo": "open-horizon",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/open-horizon",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/open-horizon",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -27260,7 +27260,7 @@
   },
   {
     "repo": "openvino_testdrive",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/openvino_testdrive",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/openvino_testdrive",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -27309,7 +27309,7 @@
   },
   {
     "repo": "piccolo",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/piccolo",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/piccolo",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -28621,7 +28621,7 @@
   },
   {
     "repo": "pipy",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/pipy",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/pipy",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -29120,7 +29120,7 @@
   },
   {
     "repo": "redpanda-edge-agent",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/redpanda-edge-agent",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/redpanda-edge-agent",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -29159,7 +29159,7 @@
   },
   {
     "repo": "rhel-edge-automation-arch",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/rhel-edge-automation-arch",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/rhel-edge-automation-arch",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -29304,7 +29304,7 @@
   },
   {
     "repo": "saf",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/saf",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/saf",
     "flags": {
       "has_arch_overview": false,
       "has_context": false,
@@ -29339,7 +29339,7 @@
   },
   {
     "repo": "salt",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/salt",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/salt",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -32172,7 +32172,7 @@
   },
   {
     "repo": "self",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/self",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/self",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -32389,7 +32389,7 @@
   },
   {
     "repo": "shifu",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/shifu",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/shifu",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -32956,7 +32956,7 @@
   },
   {
     "repo": "simpleiot",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/simpleiot",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/simpleiot",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -33201,7 +33201,7 @@
   },
   {
     "repo": "sleepkit",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/sleepkit",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/sleepkit",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -33307,7 +33307,7 @@
   },
   {
     "repo": "smart-social-distancing",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/smart-social-distancing",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/smart-social-distancing",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -33491,7 +33491,7 @@
   },
   {
     "repo": "supermq",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/supermq",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/supermq",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -33703,7 +33703,7 @@
   },
   {
     "repo": "tflite_beam",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/tflite_beam",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/tflite_beam",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -33734,7 +33734,7 @@
   },
   {
     "repo": "tflite_elixir",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/tflite_elixir",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/tflite_elixir",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -33763,7 +33763,7 @@
   },
   {
     "repo": "thin-edge.io",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/thin-edge.io",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/thin-edge.io",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -34643,7 +34643,7 @@
   },
   {
     "repo": "tokay-lite-sdk",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/tokay-lite-sdk",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/tokay-lite-sdk",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -34672,7 +34672,7 @@
   },
   {
     "repo": "trusted-connector",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/trusted-connector",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/trusted-connector",
     "flags": {
       "has_arch_overview": true,
       "has_context": true,
@@ -34754,7 +34754,7 @@
   },
   {
     "repo": "viseron",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/viseron",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/viseron",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -35041,7 +35041,7 @@
   },
   {
     "repo": "xsai",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/xsai",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/xsai",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -35121,7 +35121,7 @@
   },
   {
     "repo": "yomo",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/yomo",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/yomo",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -35180,7 +35180,7 @@
   },
   {
     "repo": "zilla",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/zilla",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/zilla",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,
@@ -35585,7 +35585,7 @@
   },
   {
     "repo": "ztachip",
-    "repo_path": "/Users/jan/Lab/Research/Replication-Packages/2026/es_edgeai_ecsa26/data/analysis/dataset/cloned/ztachip",
+    "repo_path": "/Users/jan/lab/research/replication-Packages/2026/ECSA/CameraReady/ECSA26-rep-package/pipeline/analysis/scripts/scan/workspace/ztachip",
     "flags": {
       "has_arch_overview": true,
       "has_context": false,

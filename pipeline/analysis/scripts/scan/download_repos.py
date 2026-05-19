@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Download or update the repository corpus for RQ1.3.
+"""Download or update the repository corpus for RQ2.
 
 Input CSV columns:
 - repo: logical repository name used in outputs

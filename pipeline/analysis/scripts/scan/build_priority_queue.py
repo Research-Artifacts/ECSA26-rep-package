@@ -123,7 +123,7 @@ CATEGORY_PRIORITY = {
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Build a priority queue for manual validation from raw RQ1.3 scanner JSON."
+        description="Build a priority queue for manual validation from raw RQ3 scanner JSON."
     )
     parser.add_argument("--input", required=True, help="Path to raw scanner JSON.")
     parser.add_argument("--output-dir", required=True, help="Directory for generated CSV/JSON files.")
@@ -217,7 +217,29 @@ def main() -> None:
         .copy()
     )
     priority_queue["review_order_in_repo"] = priority_queue.groupby("repo").cumcount() + 1
-    priority_queue = priority_queue[["repo", "review_order_in_repo", "category", "file", "confidence", "score"]]
+    # priority_queue["manual_label"] = ""
+    # priority_queue["comments"] = ""
+    # priority_queue = priority_queue[["repo", "review_order_in_repo", "category", "file", "confidence", "score"]]
+
+    priority_queue["manual_label"] = ""
+    priority_queue["comments"] = ""
+
+    priority_queue = priority_queue.rename(
+        columns={"file": "evidence_path"}
+    )
+
+    priority_queue = priority_queue[
+        [
+            "repo",
+            "review_order_in_repo",
+            "category",
+            "evidence_path",
+            "confidence",
+            "score",
+            "manual_label",
+            "comments",
+        ]
+    ]
 
     repo_summary_rows = []
     for item in data:
@@ -260,7 +282,7 @@ def main() -> None:
         "note": "Heuristic scores are intended only for review prioritization and must not be used as final evidence.",
     }
 
-    priority_queue.to_csv(output_dir / "tables" / "priority_review_queue.csv", index=False)
+    priority_queue.to_csv(output_dir / "tables" / "validated_priority_review_queue.csv", index=False)
     best_per_category[["repo", "category", "file", "confidence", "score"]].to_csv(
         output_dir / "tables" / "top2_per_category.csv", index=False
     )

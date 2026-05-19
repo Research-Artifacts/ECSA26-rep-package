@@ -60,27 +60,41 @@ This produces:
 - `arch_doc_scan_project_summary.csv` – one row per repository
 - `arch_doc_scan_evidence.csv` – one row per evidence path
 
-### 4) Generate manual checklist
+
+### 4) Prioritize candidate evidence for manual validation
+
+The following script generates a prioritized review queue from the raw architectural documentation scan results. 
+Candidate files are ranked using heuristic scoring based on architecture-related patterns to support manual inspection 
+and reduce validation effort.
+
 
 ```bash
-python build_manual_checklist.py \
-  --input ../../outputs/arch_doc_scan_raw.json \
-  --output ../outputs/arch_doc_manual_checklist.csv
+python build_priority_queue.py \
+  --input ../../outputs/json/arch_doc_scan_raw.json \
+  --output-dir ../../outputs/tables/
 ```
+
+After generation, reviewers manually inspect the prioritized evidence files and assign labels such as:
+
+* `TP` (True Positive)
+* `FP` (False Positive)
+* `UNCLEAR`
+
+The validated review queue is then used as input for the final project-level aggregation step.
 
 ### 5) Build project-level summary for the paper
 
 ```bash
 python summarize_arch_docs.py \
-  --input ./outputs/arch_doc_manual_checklist.csv \
-  --output-dir ./outputs/final
+  --input ../../outputs/validated_priority_review_queue.csv \
+  --output-dir ../../outputs/
 ```
 
 This produces:
 
-- `rq3_project_presence.csv`
-- `rq3_category_distribution.csv`
-- `rq3_validation_report.json`
+- `project_presence.csv`
+- `category_distribution.csv`
+- `validation_report.json`
 
 ## Coding logic
 

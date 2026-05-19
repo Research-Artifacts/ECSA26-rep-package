@@ -16823,7 +16823,6 @@ mindspore,evaluation,mindspore/lite/tools/dataset/cropper/dependencies.txt
 mindspore,evaluation,mindspore/python/mindspore/profiler/profiling.py
 mindspore,evaluation,scripts/pre_commit/README.md
 mindspore,evaluation,scripts/pre_commit/README_CN.md
-mindspore,evaluation,tests/.DS_Store
 mindspore,evaluation,tests/.gitignore
 mindspore,evaluation,tests/CMakeLists.txt
 mindspore,evaluation,tests/OWNERS
@@ -20327,7 +20326,6 @@ mindspore,evaluation,tests/st/vmap/test_vmap_graph.py
 mindspore,evaluation,tests/st/vmap/test_vmap_pynative.py
 mindspore,evaluation,tests/summary_utils.py
 mindspore,evaluation,tests/train_step_wrap.py
-mindspore,evaluation,tests/ut/.DS_Store
 mindspore,evaluation,tests/ut/CMakeLists.txt
 mindspore,evaluation,tests/ut/__init__.py
 mindspore,evaluation,tests/ut/cpp/CMakeLists.txt
