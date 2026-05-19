@@ -324,16 +324,14 @@ The study workflow implemented in this repository follows the sequence below:
 
 # Traceability to Research Questions
 
-| Research Question | Main Supporting Artifacts  |
-|-------------------|----------------------------|
-| `[RQ1]`           | `[ARTIFACTS HERE]`         |
-| `[RQ2]`           | `[ARTIFACTS HERE]`         |
-| `[RQ3]`           | `[ARTIFACTS HERE]`         |
-| `[RQ4]`           | `[ARTIFACTS HERE]`         |
-
+| Research Question | Main Supporting Artifacts                                                                                                                                                                                                                                                         |
+|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `[RQ1]`           | [capability_distribution.csv](pipeline/analysis/output/tables/capability_distribution.csv), [domain_distribution.csv](pipeline/analysis/output/tables/domain_distribution.csv), [project_type_distribution.csv](pipeline/analysis/output/tables/project_type_distribution.csv)    |
+| `[RQ2]`           | [arch_doc_scan_evidence.csv](pipeline/analysis/output/tables/arch_doc_scan_evidence.csv), [priority_review_queue.csv](pipeline/analysis/output/tables/priority_review_queue.csv), [manual_review_artifacts_ISO42010.csv](artifacts/evidence/manual_review_artifacts_ISO42010.csv) |
+| `[RQ3]`           | [architectural_building_blocks.md](artifacts/taxonomy/architectural_building_blocks.md)                                                                                                                                                                                           |
+| `[RQ4]`           | [selected_fragments.csv](artifacts/evidence/selected_fragments.csv)                                                                                                                                                                                                               |
 
 ---
-
 # Reproducibility Support
 
 This package provides:
