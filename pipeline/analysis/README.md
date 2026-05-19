@@ -67,7 +67,7 @@ scripts/
 ## Statistical Analysis Scripts
 
 | Script                     | Purpose                                               |
-| -------------------------- | ----------------------------------------------------- |
+|----------------------------|-------------------------------------------------------|
 | `quantitative_analyzer.py` | Generates descriptive and quantitative summaries      |
 | `capability_analyzer.py`   | Computes capability distributions and related outputs |
 
@@ -76,7 +76,7 @@ scripts/
 ## Inter-Rater Agreement Scripts
 
 | Script                | Purpose                                                 |
-| --------------------- | ------------------------------------------------------- |
+|-----------------------|---------------------------------------------------------|
 | `capability_kappa.py` | Computes agreement metrics for capability coding        |
 | `quality_kappa.py`    | Computes agreement metrics for quality attribute coding |
 
@@ -85,7 +85,7 @@ scripts/
 ## Architectural Documentation Scanning
 
 | Script                    | Purpose                                                            |
-| ------------------------- | ------------------------------------------------------------------ |
+|---------------------------|--------------------------------------------------------------------|
 | `scan_arch_docs.py`       | Scans repositories for architecture-related documentation evidence |
 | `build_priority_queue.py` | Generates prioritization artifacts for manual review support       |
 
@@ -151,7 +151,6 @@ These files include:
 * pairwise agreement summaries;
 * capability-oriented agreement reports;
 * quality attribute agreement reports; and
-* normalized multilabel representations.
 
 ---
 
@@ -186,7 +185,7 @@ python capability_analyzer.py
 ## Inter-Rater Agreement Analysis
 
 ```bash
-cd ../kappa
+cd scripts/kappa
 
 python capability_kappa.py
 python quality_kappa.py
@@ -197,7 +196,7 @@ python quality_kappa.py
 ## Architectural Documentation Scan
 
 ```bash
-cd ../scan
+cd scripts/scan
 
 python scan_arch_docs.py
 python build_priority_queue.py
