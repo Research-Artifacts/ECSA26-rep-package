@@ -39,7 +39,7 @@ These CSVs form the foundational dataset used in the subsequent filtering, clean
 
 ### How to Run
 
-1. Ensure that all [project dependencies](../INSTALL.md) are installed using Poetry and Activate the virtual environment:
+1. Ensure that all [Project Dependencies](../../INSTALL.md) are installed using Poetry and Activate the virtual environment:
 
 ### Authentication
 
